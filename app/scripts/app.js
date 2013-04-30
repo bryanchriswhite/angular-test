@@ -2,7 +2,7 @@
 
 angular.module('winezeusApp', ['ngMockE2E'])
   .config(
-    //If you're thinking outside (which you should be), u'll probably want to start here ^^
+    //If you're thinking outside-in (which you should be), u'll probably want to start here ^^
     // Good Luck!
   )
 
