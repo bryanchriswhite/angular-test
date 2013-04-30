@@ -10,8 +10,8 @@ files = [
   ANGULAR_SCENARIO,
   ANGULAR_SCENARIO_ADAPTER,
   'app/components/jquery/jquery.js',
-  'test/e2e/**/*.js',
-  'app/mocks/**/*.js'
+  'app/mocks/**/*.js',
+  'test/e2e/**/*.js'
 ];
 
 proxies = {
